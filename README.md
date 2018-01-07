@@ -3,4 +3,4 @@
 
 > **needs cleanup**
 
-https://github.com/somq/nfc-pcsc-observablesx/blob/master/examples/observableConvert.js
+https://github.com/somq/nfc-pcsc-observables/blob/master/examples/observableConvert.js
